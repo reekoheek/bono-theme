@@ -1,0 +1,19 @@
+{
+    "name": "reekoheek/bono-theme",
+    "description": "Default bono theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ganesha",
+            "email": "reekoheek@gmail.com"
+        }
+    ],
+    "require": {
+        "reekoheek/bono-component": "~0.1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "ROH\\Theme\\BonoTheme": "src"
+        }
+    }
+}
